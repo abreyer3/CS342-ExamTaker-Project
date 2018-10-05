@@ -1,0 +1,16 @@
+Allen Breyer
+savedExam.txt
+04/09/2018 03:21:17
+
+SAAnswer
+infoRMation HIDING
+
+MCMAAnswer
+3
+Harry Potter
+Tom Riddle
+Bilbo Baggins
+
+MCSAAnswer
+Peanut butter and jelly
+
